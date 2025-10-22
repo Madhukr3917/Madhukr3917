@@ -24,6 +24,4 @@ I specialize in designing scalable data pipelines, optimizing ETL workflows, and
 
 
 
-## 🌍 **Connect With Me**  
-
-📧 [Email](madhukr3917@gmail.com)  
+ 
